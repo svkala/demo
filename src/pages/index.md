@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: Upcoming Events Change from CMS
+  - title: Upcoming Events Change from Code
     numberOfColumns: 4
     items:
       - title: Zero touch network and Service Management...
