@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: Upcoming Events Test
+  - title: Upcoming Events Test Change
     numberOfColumns: 4
     items:
       - title: Zero touch network and Service Management...
